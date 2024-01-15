@@ -1,7 +1,6 @@
 {
-  "name": "my-app",
+  "name": "two-pass-assembler",
   "version": "0.1.0",
-  "homepage": "https://fuxtoy.github.io/SIC_project",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -23,8 +22,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {
