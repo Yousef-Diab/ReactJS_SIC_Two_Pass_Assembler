@@ -23,7 +23,7 @@ This React application serves as a 2 Pass Assembler for the Simplified Instructi
 
 2. Navigate to the project directory:
    ```bash
-    cd sic-assembler-react
+    cd ReactJS_SIC_Two_Pass_Assembler
    ```
 
 3. Install dependencies:
