@@ -18,7 +18,7 @@ This React application serves as a 2 Pass Assembler for the Simplified Instructi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sic-assembler-react.git
+   git clone https://github.com/Yousef-Diab/ReactJS_SIC_Two_Pass_Assembler.git
    ```
 
 2. Navigate to the project directory:
