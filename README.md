@@ -12,7 +12,7 @@ This React application serves as a 2 Pass Assembler for the Simplified Instructi
 
 - **User-Friendly Interface:** Provides a user-friendly interface for entering and processing assembly code.
 
-- **Visual Output:** Displays the assembled code and generated object code in a visually accessible format.
+- **Visual Output:** Displays the assembled code and generated object program in a visually accessible format.
 
 ## Installation
 
@@ -31,9 +31,9 @@ This React application serves as a 2 Pass Assembler for the Simplified Instructi
     npm install
    ```
 4. Start the application:
-  ```bash
+   ```bash
     npm start
-  ```
+   ```
 
 The application will be accessible at 'http://localhost:3000' by default.
 
@@ -54,7 +54,7 @@ The application will be accessible at 'http://localhost:3000' by default.
    ```
 3. Click on "Pass One" Button to get the output for Pass 1
 4. Click on "Pass Two" Button to get the output for Pass 2
-5. View the generated object code and any relevant output on the UI.
+5. View the generated object program and any relevant output on the UI.
 
 ## Dependencies
 * NodeJS
