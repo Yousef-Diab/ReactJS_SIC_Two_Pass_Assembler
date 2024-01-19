@@ -14,6 +14,9 @@ This React application serves as a 2 Pass Assembler for the Simplified Instructi
 
 - **Visual Output:** Displays the assembled code and generated object program in a visually accessible format.
 
+## How It Looks Like
+![image](https://github.com/Yousef-Diab/ReactJS_SIC_Two_Pass_Assembler/assets/37383782/4467a70d-9630-42fe-9296-4fdd4ef296e7)
+
 ## Installation
 
 1. Clone the repository:
